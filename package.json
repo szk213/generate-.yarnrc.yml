@@ -1,0 +1,9 @@
+{
+  "name": "generate-.yarnrc.yml",
+  "dependencies": {
+    "yaml": "^1.7.2"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
